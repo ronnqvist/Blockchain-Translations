@@ -834,7 +834,7 @@
          "support_pages":"Supportsidorna",
          "new_users_p1":"Skapa en ny Bitcoin plånbok tar bokstavligen ett par sekunder. Du kommer att kunna skicka och ta emot betalningar direkt.",
          "help_p1":"Vänligen läs FAQ för vanliga frågor. För några problem med webbplatsen, kontakta oss.",
-         "login_now":"Logga nu",
+         "login_now":"Logga in",
          "start_new":"Starta en ny plånbok"
       },
       "hub_nodes":{
